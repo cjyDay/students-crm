@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.boot:spring-boot-devtools:unknown">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../.m2/repository/org/springframework/boot/spring-boot-devtools/unknown/spring-boot-devtools-unknown.jar!/" />
+      <root url="jar://D:/localhost/repository/org/springframework/boot/spring-boot-devtools/unknown/spring-boot-devtools-unknown.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../.m2/repository/org/springframework/boot/spring-boot-devtools/unknown/spring-boot-devtools-unknown-javadoc.jar!/" />
+      <root url="jar://D:/localhost/repository/org/springframework/boot/spring-boot-devtools/unknown/spring-boot-devtools-unknown-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../.m2/repository/org/springframework/boot/spring-boot-devtools/unknown/spring-boot-devtools-unknown-sources.jar!/" />
+      <root url="jar://D:/localhost/repository/org/springframework/boot/spring-boot-devtools/unknown/spring-boot-devtools-unknown-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
